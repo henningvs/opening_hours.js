@@ -635,6 +635,7 @@ Project                                                          | Additional In
 [opening_hours-statistics]                                       | Visualization of the data quality and growth over time.
 [www.openstreetmap.hu](http://www.openstreetmap.hu/)             | old version of this library, see also https://github.com/AMDmi3/opening_hours.js/issues/19
 [osmopeninghours][]                                              | JavaScript library which provides a more abstract, specialized API and Italian localization. It returns a JavaScript object for a given time interval (see [example.json](https://github.com/digitalxmobile-dev/osmopeninghours/blob/master/example/example.json)).
+[Boxlocator][https://boxlocator.eu]                              | Map for Finding vending machines and other amenities (like banks) with integration of opening hours
 
 If you use this library please let me know …
 
